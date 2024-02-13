@@ -942,16 +942,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Collect colors to break purple wall and escape
-
-    You have to shoot
-    enemy till it is in weak state, then
-
-    you can collect the blue to progress!
+  m_text: 'Jump onto a color to collect/mix with current gun color!
 
 
-    Jump
-    onto a color to collect/mix with current gun color!
+    Shoot a
+    wall with correct color to break it
+
+
+    Collect colors to break purple wall
+    and escape the room.
+
+    You have to shoot enemy till it is in weak state, then
+
+    you
+    can jump onto the blue to make purple and progress!
 
 
     If player or enemy
@@ -982,8 +986,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 20
-  m_fontSizeBase: 20
+  m_fontSize: 15
+  m_fontSizeBase: 15
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1363,7 +1367,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 22.237968
+  orthographic size: 26.930769
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1388,7 +1392,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17, y: -2.34, z: -31.8}
+  m_LocalPosition: {x: -17, y: 3, z: -31.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
