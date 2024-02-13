@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     public float moveSpeed = 5f; // Speed at which the player moves
-    public float jumpForce = 350f; // Force of the jump
+    public float jumpForce = 25f; // Force of the jump
 
     private Rigidbody2D rb; // Reference to the Rigidbody2D component
     private bool isGrounded = true; // Check if the player is grounded

@@ -12,7 +12,7 @@ public class PlayerFollow : MonoBehaviour
     {
         // If you want, you can initialize the offset here
         // For example, to have a slight rightwards and upwards offset you might use something like this:
-        offset = new Vector3(3.0f, 0.0f, 0); // Adjust the values as needed
+        // Adjust the values as needed
     }
 
     // Update is called once per frame
